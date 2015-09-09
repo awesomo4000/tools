@@ -1,5 +1,7 @@
 # tools
 random tools and things
 
-<http://mylink.is.here>
+tmux-lin-x64 : statically linked against musl libc
+subprocess_check_output_for_26.py : python subprocess module with check_output function
+
 
